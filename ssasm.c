@@ -1,3 +1,5 @@
+/* A SIC Machine assembler by Sumukha TV <sumukhatv@outlook.com> and Suhas H <suhas239@gmail.com>*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
