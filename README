@@ -13,3 +13,4 @@ Specifications:
 - Compiling and Executing: 
 	$cc -o ssasm ssasm.c
 	$./ssasm <InputFileName>.txt
+* A sample input (input.txt) and a sample output (input.obj) have been provided for convenience. 
