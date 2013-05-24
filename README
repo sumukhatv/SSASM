@@ -15,3 +15,6 @@ Specifications:
 	$./ssasm <InputFileName>.txt
 
 * A sample input (input.txt) and a sample output (input.obj) have been provided for convenience. 
+
+NOTE: Reproducing the contents of this repository in any form needs the author's permissions. 
+24/May/2013
