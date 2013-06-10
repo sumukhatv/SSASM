@@ -16,6 +16,12 @@ Specifications:
 
 * A sample input (input.txt) and a sample output (input.obj) have been provided for convenience. 
 
+* To use SSASM as a Ubuntu command, follow the below mentioned steps:
+	1. Go to the directory where the SSASM source code resides. 
+	2. Compile the SSASM source code: cc -o ssasm ssasm.c
+	3. Copy the binary executable to the /usr/local/bin directory: sudo cp -r ssasm /usr/local/bin
+	4. Now use ssasm as a Ubuntu command. 
+
 Copyright 2013 Sumukha TV
 Reproducing the contents of this repository in any form needs the author's permissions. 
 24/May/2013
